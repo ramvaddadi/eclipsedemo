@@ -7,7 +7,11 @@ public class Githubdemo1 {
 System.out.println("hello");
 
 System.out.println("thisis ram");
+<<<<<<< Updated upstream
 
+=======
+vnuivlutn
+>>>>>>> Stashed changes
 	}
 
 }
